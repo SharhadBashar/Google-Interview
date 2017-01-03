@@ -1,4 +1,4 @@
-# Google-Interview  
+# Number Simplifier  
 Done in Python  
 A sample interview code example    
 You are given an integer X.   
